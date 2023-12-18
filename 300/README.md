@@ -45,7 +45,7 @@ Response from Cody.
 Prompt Cody:
 
 ```
-How does check resource service works? show me some code occurrences
+How does check resource service works? Show me some code occurrences.
 ```
 
 Once it returned the files suggested, I wanted to know more about specific functions in the code. Cody helped return some high-level descriptions of the code!
@@ -53,7 +53,7 @@ Once it returned the files suggested, I wanted to know more about specific funct
 Prompt Cody:
 
 ```
-Explain selected code (high level)
+Explain selected code (high level).
 ```
 
 ### 200 - Get Contextual Documentation for Codebase
